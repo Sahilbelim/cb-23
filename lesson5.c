@@ -1,11 +1,10 @@
 #include<stdio.h>
 void main()
 {
-    int table,num1,num2;
+    int table;
     table = 28;
-    num1 = 20;
-    num2 = 30;
-    printf("Addition is %d \n",(num1%num2));
+    
+
   
     printf("%d x 1 = %d \n",table,(table*1));
     printf("%d x 2 = %d \n",table,(table*2));
