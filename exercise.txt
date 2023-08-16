@@ -24,3 +24,7 @@ write a program to  fing squre of given number .
 
 
 ---------------------------------------------------------------------------------------------
+
+write a program to check given number is odd even .
+
+write a program to check number is two digit or not .

@@ -17,10 +17,17 @@ operator
 >= - greater than equal too
 <= - less than eqaul to
 
+
+logical operators
+-----------------------------------
+
  && - and
  || -or
  != -not  
+ 
  arithmetic operators
+---------------------------------------
+
 +
 -
 *
