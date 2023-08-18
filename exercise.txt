@@ -28,3 +28,22 @@ write a program to  fing squre of given number .
 write a program to check given number is odd even .
 
 write a program to check number is two digit or not .
+
+----------------------------18-08-2023--------------------------------------
+
+write a program to fing larger area of two triangle .
+
+
+ Write a programe to findout income tax based on given condition take monthly income as input 
+yearly income     tax rate
+<3,00,000         5%  
+
+>=3,00,000
+<5,00,000         10%  
+
+>=5,00,000
+<8,00,000         20%
+
+>=8,00,000        30%  
+
+
