@@ -70,6 +70,10 @@ units           price  per unit
 >200 & <300     3
 >300 & <400     4
 >400            5
-also calculate 5% percentage energy charge on total bill amount & display total amount 
+also calculate 5% percentage energy charge on total bill amount & display total amount
+
+------------------------------------------23/08/2023----------------------------------------
 
 write a program to findout largest rectangle's volume from 3 rectangle dimensions using nested decision making statement 
+
+write a program to check letter  vovel or not . using switch case.
