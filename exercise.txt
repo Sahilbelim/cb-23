@@ -77,3 +77,15 @@ also calculate 5% percentage energy charge on total bill amount & display total 
 write a program to findout largest rectangle's volume from 3 rectangle dimensions using nested decision making statement 
 
 write a program to check letter  vovel or not . using switch case.
+-----------------------------------------24/08/2023----------------------------------------
+Marks       Grade
+
+100 - 80     Distinction A
+
+79 - 60       First Class B
+
+59 - 45       Second Class C
+
+45 -33          pass D
+
+33 -           fail F
