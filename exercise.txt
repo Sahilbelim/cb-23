@@ -145,3 +145,8 @@ write a programe to print following pattern
 
 --------------------------------------------04/09/2023----------------------
 write a program to fing area of 2 -5 triangle .
+-----------------------------05/09/2023---------------------------------
+
+write a program  to print bio-data of 5 student .
+
+write a program to fing avrege of five subject and also check grade .
