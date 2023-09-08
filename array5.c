@@ -7,4 +7,5 @@ void main()
     scanf("%s", &name);
 
     printf("Name : %s ", name);
+    
 }
