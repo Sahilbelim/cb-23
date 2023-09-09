@@ -25,6 +25,28 @@ void main()
     {
         printf("Subject %d marks : %d\n", j+1,marks[0][j]);
     } 
+    printf("\n\n***********************************************Student 2 marks************************************** \n\n");
+
+    for (j = 0; j <= 4;j++)
+    {
+     printf("Subject 1 marks %d", marks[1][j]);
+    }
+    printf("\n\n***********************************************Student 3 marks************************************** \n\n");
+    for (j = 0; j <= 4; j++)
+    {
+     printf("Subject 1 marks %d", marks[2][j]);
+    }
+    printf("\n\n***********************************************Student 4 marks************************************** \n\n");
+
+    for (j = 0; j <= 4; j++)
+    {
+     printf("Subject 1 marks %d", marks[3][j]);
+    }
+    printf("\n\n***********************************************Student 5 marks************************************** \n\n");
+    for (j = 0; j <= 4; j++)
+    {
+     printf("Subject 1 marks %d", marks[4][j]);
+    }
 }
 
 // printf("Subject 2 marks : %d\n", marks[0][1]);
