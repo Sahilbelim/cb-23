@@ -32,4 +32,5 @@ void main()
     {
         printf("Number %d  : %d \n",i+1, num[i]);
     }
+    
 }
