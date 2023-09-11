@@ -22,12 +22,14 @@ user defined function (UDF)
 	function created by us(developer) as per requirement is called user defined function.
 	
 how to create function 
+
 	syntax 
 	
 	datatype function-name(datatype variable-name,[datatype variable-name....])
 	{
 		
 	
+
 	}
 	
 	example 
