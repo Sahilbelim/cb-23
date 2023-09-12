@@ -21,6 +21,7 @@ void main()
     printsymbol(num, symbol);
 
     printf("\nName : Belim sahil \n");
+    
     printsymbol(num,symbol);
 
     printf("\nAge : 18\n");

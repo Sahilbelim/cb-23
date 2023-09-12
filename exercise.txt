@@ -153,4 +153,8 @@ write a program  to print bio-data of 5 student .
 
 write a program to fing avrege of five subject and also check grade .
 
+-----------------------------------12/09/2023------------------------------------
 
+write a program to create funtion of bmi
+
+write a program to create funtion of zodiac sign  
