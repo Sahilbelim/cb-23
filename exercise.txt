@@ -158,3 +158,9 @@ write a program to fing avrege of five subject and also check grade .
 write a program to create funtion of bmi
 
 write a program to create funtion of zodiac sign  
+
+-----------------------------------13/09/2023------------------------------------
+
+create a funtion for find area of cyliender.
+create a funtion for find area of triangle .
+create a funtion for find volume of rectangle.
