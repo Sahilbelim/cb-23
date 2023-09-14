@@ -28,6 +28,7 @@ void main()
         }
         total[i] = marks[i][0] + marks[i][1] + marks[i][2] + marks[i][3] + marks[i][4];
         avg[i] = total[i] / 5;
+        
         printf("Total marks     : %d\n", total[i]);
         printf("Avrege          : %.3f", avg[i]);
     }
