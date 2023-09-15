@@ -18,7 +18,7 @@ void main()
     {
         printf("Days of month is 30 \n");
     }
-    else if (month == 2)
+    else if (month == 2 && lip_y==0 )
     {
         if (lip_y == 0)
         {
